@@ -2,7 +2,7 @@
 
 Description: This is a tinder app for dogs! Now dog owners can find for their furry friends soulmates.
 
-Live Link: https://amazing-mahavira-e8990d.netlify.app/
+Live Link: https://tin-dog-web.netlify.app/
 
 This project was crated with HTML, CSS and Bootstramp.
 
